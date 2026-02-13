@@ -1,75 +1,50 @@
-# AutoSage – AI Powered Vehicle Assistant
+# 🚗 AutoSage App Using Gemini Flash
 
-## Team ID
-**LTVIP2026TMIDS73327**
+## 🆔 Team ID
+LTVIP2026TMIDS73327
 
+## ☁️ Category
+Cloud Application Development
 
-## Project Overview
+## 🧠 Skills Required
+- Machine Learning
+- Generative AI
+- Python Programming
+- Cloud Application Development
 
-AutoSage is an AI-powered vehicle assistance platform built using **Google Cloud Generative AI (Gemini Flash)** and **Python**.  
+## 📌 Project Overview
+AutoSage is a cutting-edge vehicle expert application powered by Gemini Flash technology. The app provides comprehensive information about new two-wheelers and four-wheelers, including specifications, reviews, comparisons, maintenance guidance, and eco-friendly vehicle insights. With a user-friendly interface and real-time updates, AutoSage helps users make informed vehicle decisions.
 
-The system provides intelligent vehicle troubleshooting, maintenance suggestions, and real-time automotive guidance using advanced generative AI technology.
+## 📝 Project Description
+AutoSage leverages Gemini Flash to deliver intelligent, real-time automotive insights. The system enables users to compare vehicles, analyze features and pricing, receive maintenance tips, and explore sustainable vehicle options. This AI-powered solution enhances both vehicle selection and ownership experience.
 
+## 🌍 Real-World Use Case Scenarios
 
-## Team & Project Details
+### 🏍️ Scenario 1: Buying a New Motorcycle
+Sarah wants to purchase a new motorcycle. She uses AutoSage to compare specifications, analyze features and prices, read real-time reviews, and stay updated with the latest launches. The app helps her select the best motorcycle within her budget.
 
-- **Team Size:** 4  
-- **Project Duration:** 8 Weeks (2 Months)  
-- **Platform:** Web Application  
-- **Internship Program:** Generative AI Internship  
-- **Technology Stack:** Python + Google Generative AI (Gemini Flash)
+### 🔧 Scenario 2: Vehicle Maintenance Tips
+AutoSage provides seasonal maintenance alerts. Before winter, it suggests checking tire pressure, inspecting battery health, and monitoring antifreeze levels. This proactive approach improves safety, performance, and vehicle longevity.
 
+### 🌱 Scenario 3: Finding Eco-Friendly Vehicles
+Emma searches for environmentally friendly vehicles. Using AutoSage, she explores electric and hybrid models, compares efficiency, evaluates environmental impact, and learns about incentives. The app helps her choose a sustainable option aligned with her green goals.
 
-## Team Leader
+## 🛠️ Technology Stack
+- Python
+- Google Generative AI API
+- Gemini Flash Model
+- REST API
+- JSON
 
-**Name:** Poojitha Kanipakam  
-**Email:** kpoojitha2004@gmail.com  
+## ⭐ Key Features
+- AI-powered vehicle comparison
+- Real-time automotive updates
+- Smart maintenance guidance
+- Eco-friendly vehicle recommendations
+- Intelligent Q&A assistance
 
-
-## Team Members
-
-- U Lavanya  
-- K Parimala  
-- Vellepu Prashanth Kumar  
-
-
-## Project Title
-
-AutoSage: Intelligent Vehicle Assistance Using Generative AI
-
-
-## Key Objectives
-
-- Provide AI-based vehicle troubleshooting assistance  
-- Deliver real-time automotive guidance  
-- Implement secure API key authentication  
-- Build a scalable AI-powered system  
-- Improve user interaction using prompt engineering  
-
-
-## Core Features
-
-- AI-powered vehicle issue diagnosis  
-- Smart automotive Q&A system  
-- Maintenance and safety recommendations  
-- Fast response generation using Gemini Flash  
-- Secure Google API Key integration  
-- Interactive web interface  
-
-
-## Tech Stack
-
-- Python  
-- Google Generative AI API  
-- Gemini Flash Model  
-- REST API  
-- JSON  
-
-
-## Future Enhancements
-
-- Voice-enabled assistant  
-- Mobile application version  
-- Cloud deployment  
-- Real-time vehicle sensor integration  
-- Predictive maintenance system  
+## 🚀 Future Enhancements
+- Voice-enabled assistant
+- Mobile application version
+- Real-time vehicle data integration
+- Advanced AI-based personalized recommendations

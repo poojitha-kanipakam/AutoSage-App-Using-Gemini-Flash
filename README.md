@@ -6,50 +6,36 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
 ![Google AI](https://img.shields.io/badge/Google-Gemini%202.5%20Flash-orange?style=for-the-badge&logo=google)
-![Internship](https://img.shields.io/badge/Generative%20AI-Internship-success?style=for-the-badge)
-![Deployed on Streamlit](https://img.shields.io/badge/Deployed-Streamlit%20Cloud-ff4b4b?style=for-the-badge&logo=streamlit)
+![Internship Project](https://img.shields.io/badge/Project-Generative%20AI%20Internship-success?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🌗 Dark / Light Theme Preview
-
-| ☀ Light Mode | 🌙 Dark Mode |
-|--------------|--------------|
-| Add light mode screenshot here | Add dark mode screenshot here |
-
-> 📸 Replace the table content above with actual screenshots once deployed.
-
----
-
-# 🚀 Live Deployment
-
-👉 **Streamlit Cloud Deployment Link:**  
-```
-https://your-app-name.streamlit.app
-```
-
-*(Replace with your real deployment link after hosting.)*
-
----
-
-# 🆔 Team ID  
+## 🆔 Team ID  
 **LTVIP2026TMIDS73327**
 
-## ☁ Category  
+## ☁️ Category  
 Cloud Application Development  
+
+---
+
+# 🚀 Project Overview
+
+AutoSage is a Generative AI–powered vehicle expert application built using **Streamlit** and **Google Gemini 2.5 Flash**.
+
+It analyzes uploaded vehicle images and generates structured, intelligent automotive insights instantly — helping users make informed vehicle decisions.
 
 ---
 
 # 👥 Project Team
 
 ## 👩‍🏫 Team Leader
-- **Poojitha Kanipakam**
+**Poojitha Kanipakam**
 
 ## 👩‍💻 Team Members
-- **U Lavanya**
-- **K Parimala**
+- **U Lavanya**  
+- **K Parimala**  
 - **Vellepu Prashanth Kumar**
 
 ---
@@ -61,37 +47,42 @@ Cloud Application Development
 
 ---
 
-# 🚀 Project Overview
-
-AutoSage is a Generative AI–powered vehicle expert application built using **Streamlit** and **Google Gemini 2.5 Flash**.
-
-It analyzes uploaded vehicle images and provides structured automotive insights instantly.
-
----
-
 # ✨ Features
 
 - 📸 Upload vehicle image  
 - 🤖 AI-powered vehicle analysis  
-- 📊 Structured details:
+- 📊 Structured output including:
   - Brand  
   - Model  
   - Launch Year  
   - Mileage  
   - Average Price (INR)  
   - Key Features  
-  - Resale Value  
+  - Approximate Resale Value  
 - ⚡ Fast multimodal AI generation  
-- 🎨 Modern colorful UI  
+- 🎨 Modern and colorful Streamlit UI  
 
 ---
 
-# 🛠 Tech Stack
+# 🌍 Real-World Use Cases
+
+### 🏍 Buying a New Motorcycle
+Compare specifications, features, pricing, and reviews to choose the best vehicle within budget.
+
+### 🔧 Maintenance Guidance
+Receive seasonal alerts such as tire checks, battery inspection, and performance tips.
+
+### 🌱 Eco-Friendly Vehicle Search
+Explore electric and hybrid options, analyze efficiency, and evaluate sustainability impact.
+
+---
+
+# 🛠 Technology Stack
 
 - Python  
 - Streamlit  
 - Google Generative AI API  
-- Gemini 2.5 Flash  
+- Gemini 2.5 Flash Model  
 - Pillow  
 - python-dotenv  
 
@@ -110,9 +101,9 @@ AutoSage/
 
 ---
 
-# ▶ How to Run
+# ▶️ How to Run
 
-### 1️⃣ Clone Repository
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/AutoSage.git
 cd AutoSage
@@ -129,7 +120,7 @@ Create `.env` file:
 GOOGLE_API_KEY=your_api_key_here
 ```
 
-### 4️⃣ Run App
+### 4️⃣ Run the App
 ```bash
 streamlit run app.py
 ```
@@ -138,23 +129,23 @@ streamlit run app.py
 
 # 🔐 Security Notice
 
-The Google API key is excluded for security reasons.  
-Generate your own API key from Google AI Studio.
+The Google API key is not included in this repository.  
+Please generate your own API key from Google AI Studio and store it securely in the `.env` file.
 
 ---
 
-# 🤝 Contributors
+# 🚀 Future Enhancements
 
-Thanks to all contributors ❤️
-
-<a href="https://github.com/your-username/AutoSage/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=your-username/AutoSage" />
-</a>
+- 🎙 Voice-enabled assistant  
+- 📱 Mobile version  
+- 🔄 Real-time vehicle data integration  
+- 🤖 Personalized AI recommendations  
+- 🌍 Multi-language support  
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project, consider giving it a star!
+### ⭐ If you like this project, give it a star!
 
 </div>
